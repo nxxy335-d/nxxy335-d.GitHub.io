@@ -1,0 +1,41 @@
+* {
+	margin: 0;
+	padding: 0;
+	margin: 0 auto;
+	font-size: 24px;
+	text-align: center;
+}
+body {
+	width: 1400px;
+	margin: 0 auto;
+	background-color: beige;
+}
+a {
+	text-decoration: none;
+	font-size: 18px;
+}
+th {
+	width: 200px;
+	height: 36px;
+}
+td {
+	width: 200px;
+	height: 30px;
+	text-align: center;
+}
+#title_home {
+	color: burlywood;
+}
+#home {
+	/*text-align: center; /*让div内部文字居中*/
+	/*background-color: #fff;
+	border-radius: 20px;
+	width: 350px;
+	height: 450px;
+	margin: auto;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;*/
+}
